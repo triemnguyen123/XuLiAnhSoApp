@@ -18,6 +18,7 @@
 ## Giới thiệu
 Đây là đồ án cân bằng histogram.
 
+##hình ảnh Project
 
 ## Tài liệu tham khảo
 
