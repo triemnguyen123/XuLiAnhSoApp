@@ -1,0 +1,6 @@
+D:\------------------------HocTap\XuLiAnhSo\PublicApp\XuLiAnhSo1.exe
+D:\------------------------HocTap\XuLiAnhSo\PublicApp\XuLiAnhSo1.dll
+D:\------------------------HocTap\XuLiAnhSo\PublicApp\XuLiAnhSo1.deps.json
+D:\------------------------HocTap\XuLiAnhSo\PublicApp\XuLiAnhSo1.runtimeconfig.json
+D:\------------------------HocTap\XuLiAnhSo\PublicApp\XuLiAnhSo1.pdb
+D:\------------------------HocTap\XuLiAnhSo\PublicApp\DocumentFormat.OpenXml.dll

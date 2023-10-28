@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>XuLiAnhSo1</id>
+    <version>1.0.0</version>
+    <authors>XuLiAnhSo1</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0-windows7.0">
+        <dependency id="DocumentFormat.OpenXml" version="2.20.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net6.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="D:\------------------------HocTap\XuLiAnhSo\XuLiAnhSo1\XuLiAnhSo1\bin\Debug\net6.0-windows\XuLiAnhSo1.runtimeconfig.json" target="lib\net6.0-windows7.0\XuLiAnhSo1.runtimeconfig.json" />
+    <file src="D:\------------------------HocTap\XuLiAnhSo\XuLiAnhSo1\XuLiAnhSo1\bin\Debug\net6.0-windows\XuLiAnhSo1.dll" target="lib\net6.0-windows7.0\XuLiAnhSo1.dll" />
+  </files>
+</package>

@@ -1,0 +1,6 @@
+D:\------------------------HocTap\XuLiAnhSo\XuLiAnhSo1\XuLiAnhSo1\bin\Release\net6.0-windows\app.publish\XuLiAnhSo1.exe
+D:\------------------------HocTap\XuLiAnhSo\XuLiAnhSo1\XuLiAnhSo1\bin\Release\net6.0-windows\app.publish\XuLiAnhSo1.dll
+D:\------------------------HocTap\XuLiAnhSo\XuLiAnhSo1\XuLiAnhSo1\bin\Release\net6.0-windows\app.publish\XuLiAnhSo1.deps.json
+D:\------------------------HocTap\XuLiAnhSo\XuLiAnhSo1\XuLiAnhSo1\bin\Release\net6.0-windows\app.publish\XuLiAnhSo1.runtimeconfig.json
+D:\------------------------HocTap\XuLiAnhSo\XuLiAnhSo1\XuLiAnhSo1\bin\Release\net6.0-windows\app.publish\XuLiAnhSo1.pdb
+D:\------------------------HocTap\XuLiAnhSo\XuLiAnhSo1\XuLiAnhSo1\bin\Release\net6.0-windows\app.publish\DocumentFormat.OpenXml.dll

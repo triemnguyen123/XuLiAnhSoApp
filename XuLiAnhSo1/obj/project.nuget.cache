@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BX2h6bpKjEy7Sba7xFzHftuWchTpcJsHN2j8x/+wZ3+YuoTfzMlgt6GmhXtnIifQmIg6ahXRyZhv5sg4YUKT5Q==",
+  "success": true,
+  "projectFilePath": "D:\\------------------------HocTap\\XuLiAnhSo\\XuLiAnhSo1\\XuLiAnhSo1\\XuLiAnhSo1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\caube\\.nuget\\packages\\documentformat.openxml\\2.20.0\\documentformat.openxml.2.20.0.nupkg.sha512",
+    "C:\\Users\\caube\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
