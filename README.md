@@ -3,7 +3,17 @@
     <a href="https://imgur.com/TwrhDYF"><img src="https://i.imgur.com/TwrhDYF.png" title="source: imgur.com" /></a>
   </a>
 </p>
-
+<style>
+h1 {
+    font-size: 24px;
+}
+h2 {
+    font-size: 20px;
+}
+h3 {
+    font-size: 18px;
+}
+</style>
 &nbsp;
 <br>
 **##Giới thiệu**
