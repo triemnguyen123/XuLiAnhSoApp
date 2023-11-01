@@ -6,10 +6,10 @@
 
 &nbsp;
 <br>
-## Giới thiệu
+**Giới thiệu**
 PicHis là một phần mềm phát triển trên ngôn ngữ C# với công dụng chính là cân bằng hình ảnh biểu thị nó ra màn hình để người dùng có thể dễ dàng nhìn thấy được biểu đồ histogram của ảnh và có thể tuỳ ý chỉnh ảnh để nhìn thấy rõ biểu đồ của ảnh như thế nào.
 <br>
-##Hướng dẫn dùng
+**Hướng dẫn dùng**
 <br>
 Cách 1: cho người cần xem code hoặc phát triển thêm
 <br>
@@ -33,7 +33,7 @@ B2: Click vào button Histogram, sẽ hiển thị biểu đồ bên cạnh khun
 <br>
 B3: kéo các thanh tuỳ chỉnh để biểu đồ sau đó nhấp lại button Histogram để cập nhật biểu đồ
 <br>
-##Hình ảnh app
+**Hình ảnh app**
 <p align="center">
   <a href="">
     <a href="https://imgur.com/XNzAC6r"><img src="https://i.imgur.com/XNzAC6r.png" title="source: imgur.com" /></a>
@@ -43,7 +43,7 @@ B3: kéo các thanh tuỳ chỉnh để biểu đồ sau đó nhấp lại butto
 </p>
 Tuỳ vào hình ảnh mà PicHis sẽ cho ra những kết quả biểu đồ khác nhau.
 <br>
-## Tài liệu tham khảo
+**Tài liệu tham khảo**
 
 
 <br>
@@ -62,7 +62,7 @@ Thanks goes to these wonderful people
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 <br>
-## Thanks
+**Thanks**
 <br>
 <a href="https://www.chromaticqa.com/"><img src="https://cdn-images-1.medium.com/letterbox/147/36/50/50/1*oHHjTjInDOBxIuYHDY2gFA.png?source=logoAvatar-d7276495b101---37816ec27d7a" width="120"/></a>
 <br>
