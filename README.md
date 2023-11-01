@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://codesandbox.io">
-    <img src="https://codesandbox.io/static/img/banner.png?v=2" height="300px">
+  <a href="">
+    <img src="[https://codesandbox.io/static/img/banner.png?v=2](https://imgur.com/TwrhDYF)" height="300px">
   </a>
 </p>
 
@@ -44,3 +44,9 @@ Thanks goes to these wonderful people
 <a href="https://www.chromaticqa.com/"><img src="https://cdn-images-1.medium.com/letterbox/147/36/50/50/1*oHHjTjInDOBxIuYHDY2gFA.png?source=logoAvatar-d7276495b101---37816ec27d7a" width="120"/></a>
 
 Cảm ơn đã xem đồ án nhóm của chúng tôi.
+Thành viên nhóm thực hiện: 
+Nguyễn Hồng Chấn Hưng – 207CT27958
+Hồng Thanh Đăng – 207CT55023
+Nguyễn Trương Bu Triêm - 207CT55202
+Đinh Quốc Sách - 207CT47914
+
