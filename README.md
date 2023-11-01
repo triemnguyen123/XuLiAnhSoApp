@@ -4,9 +4,9 @@
     <a href="https://imgur.com/TwrhDYF"><img src="https://i.imgur.com/TwrhDYF.png" title="source: imgur.com" /></a>
   </a>
 </p>
-&nbsp;
-<br>
-**##Giới thiệu**
+
+<h1 style="font-size: 24px;">**Giới thiệu**</h1>
+
 PicHis là một phần mềm phát triển trên ngôn ngữ C# với công dụng chính là cân bằng hình ảnh biểu thị nó ra màn hình để người dùng có thể dễ dàng nhìn thấy được biểu đồ histogram của ảnh và có thể tuỳ ý chỉnh ảnh để nhìn thấy rõ biểu đồ của ảnh như thế nào.
 <br>
 **##Hướng dẫn dùng**
