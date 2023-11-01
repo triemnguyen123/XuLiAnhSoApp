@@ -15,10 +15,15 @@ PicHis là một phần mềm phát triển trên ngôn ngữ C# với công d�
 
 ##Hướng dẫn dùng
 Cách 1: cho người cần xem code hoặc phát triển thêm
+<br>
 B1: Tải mã nguồn về theo git clone + link git hub https://github.com/triemnguyen123/XuLiAnhSoApp.git
+<br>
 B2: Mở mã nguồn bằng visual code 
+<br>
 B3: F5 chạy mã nguồn và thưởng thức
+<br>
 Cách 2: cho người dùng
+<br>
 Chỉ cần tải về và cài đặt file setup là có thể sử dụng PicHis
 - https://www.mediafire.com/file/6t4g0ezcpcjwt0q/PicHis.rar/file
 Cách thức ứng dụng hoạt động
@@ -59,6 +64,7 @@ Thanks goes to these wonderful people
 
 Cảm ơn đã xem đồ án nhóm của chúng tôi.
 Thành viên nhóm thực hiện: 
+<br>
 Nguyễn Hồng Chấn Hưng – 207CT27958
 Hồng Thanh Đăng – 207CT55023
 Nguyễn Trương Bu Triêm - 207CT55202
