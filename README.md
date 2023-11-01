@@ -1,6 +1,6 @@
 <p align="center">
   <a href="">
-    <img src="[https://codesandbox.io/static/img/banner.png?v=2](https://imgur.com/TwrhDYF)">
+    <a href="https://imgur.com/TwrhDYF"><img src="https://i.imgur.com/TwrhDYF.png" title="source: imgur.com" /></a>
   </a>
 </p>
 
