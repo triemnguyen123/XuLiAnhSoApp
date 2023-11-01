@@ -6,20 +6,34 @@
 
 &nbsp;
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-153-orange.svg?style=flat-square)](#contributors-)
-[![CircleCI](https://circleci.com/gh/codesandbox/codesandbox-client.svg?style=svg)](https://circleci.com/gh/codesandbox/codesandbox-client)
-[![BrowserStack Status](https://www.browserstack.com/automate/badge.svg?badge_key=cVJuczlJWUtqWXhIbFN1ZjVQekF4NzNsd3phNEZRaGlWU0pHYVVkdGRFWT0tLXFtTVhaOWRySmN0ZG5QVDNDQ0g5Z0E9PQ==--79fe3eae4f149a400d396c9b12d3988f685785cf)](https://www.browserstack.com/automate/public-build/cVJuczlJWUtqWXhIbFN1ZjVQekF4NzNsd3phNEZRaGlWU0pHYVVkdGRFWT0tLXFtTVhaOWRySmN0ZG5QVDNDQ0g5Z0E9PQ==--79fe3eae4f149a400d396c9b12d3988f685785cf)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](http://www.firsttimersonly.com/)
-[![lerna](https://img.shields.io/badge/maintained%20with-lerna-cc00ff.svg)](https://lerna.js.org/)
+
 
 
 
 ## Giới thiệu
-Đây là đồ án cân bằng histogram.
+PicHis là một phần mềm phát triển trên ngôn ngữ C# với công dụng chính là cân bằng hình ảnh biểu thị nó ra màn hình để người dùng có thể dễ dàng nhìn thấy được biểu đồ histogram của ảnh và có thể tuỳ ý chỉnh ảnh để nhìn thấy rõ biểu đồ của ảnh như thế nào.
 
-##hình ảnh Project
-
+##Hướng dẫn dùng
+Cách 1: cho người cần xem code hoặc phát triển thêm
+B1: Tải mã nguồn về theo git clone + link git hub https://github.com/triemnguyen123/XuLiAnhSoApp.git
+B2: Mở mã nguồn bằng visual code 
+B3: F5 chạy mã nguồn và thưởng thức
+Cách 2: cho người dùng
+Chỉ cần tải về và cài đặt file setup là có thể sử dụng PicHis
+- https://www.mediafire.com/file/6t4g0ezcpcjwt0q/PicHis.rar/file
+Cách thức ứng dụng hoạt động
+B1: Click vào button thêm ảnh, trỏ thư mục vào ảnh cần sử dụng
+B2: Click vào button Histogram, sẽ hiển thị biểu đồ bên cạnh khung hình ảnh
+B3: kéo các thanh tuỳ chỉnh để biểu đồ sau đó nhấp lại button Histogram để cập nhật biểu đồ
+##Hình ảnh app
+<p align="center">
+  <a href="">
+    <a href="https://imgur.com/XNzAC6r"><img src="https://i.imgur.com/XNzAC6r.png" title="source: imgur.com" /></a>
+    <a href="https://imgur.com/mXYH9Qc"><img src="https://i.imgur.com/mXYH9Qc.png" title="source: imgur.com" /></a>
+    <a href="https://imgur.com/zCexS8g"><img src="https://i.imgur.com/zCexS8g.png" title="source: imgur.com" /></a>
+  </a>
+</p>
+tuỳ vào hình ảnh mà PicHis sẽ cho ra những kết quả biểu đồ khác nhau.
 ## Tài liệu tham khảo
 
 
