@@ -2,7 +2,7 @@
   <a href="">
     <a href="https://imgur.com/TwrhDYF"><img src="https://i.imgur.com/TwrhDYF.png" title="source: imgur.com" /></a>
   </a>
-</p>
+
 <style>
 h1 {
     font-size: 24px;
@@ -88,4 +88,5 @@ Nguyễn Trương Bu Triêm - 207CT55202
 <br>
 Đinh Quốc Sách - 207CT47914
 <br>
+</p>
 
