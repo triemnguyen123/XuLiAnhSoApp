@@ -46,10 +46,6 @@ Tuỳ vào hình ảnh mà PicHis sẽ cho ra những kết quả biểu đồ k
 
 
 <br>
-<h1 style="font-size: 24px;">Contributors✨ </h1>
-<br>
-Thanks goes to these wonderful people
-([emoji key](https://github.com/all-contributors/all-contributors#emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
