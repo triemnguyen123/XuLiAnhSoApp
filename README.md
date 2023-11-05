@@ -42,7 +42,7 @@ B3: kéo các thanh tuỳ chỉnh để biểu đồ sau đó nhấp lại butto
 </p>
 Tuỳ vào hình ảnh mà PicHis sẽ cho ra những kết quả biểu đồ khác nhau.
 <br>
-<h1 style="font-size: 24px;">Tài liệu tham khảo</h1>
+
 
 
 <br>
